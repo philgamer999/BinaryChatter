@@ -1,4 +1,4 @@
-Ever wanted to chat, but are afraid of third a party reading your chats? This program lets you encrypt and decrypt text messages.
+Ever wanted to chat, but are afraid of third a party reading your chats? This program lets you encrypt and decrypt text messages. Supported ASCII characters 32-125
 <br>
 ### Explanation
 1. Choose the desired conversion method
